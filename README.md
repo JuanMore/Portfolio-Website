@@ -1,5 +1,15 @@
 # Portfolio-Website
-Juanmoreno.dev portflio website to showcase my work.
+<a link href="Juanmoreno.dev" target="#" alt="A clean, beautiful and responsive portfolio"></a>
+A clean, beautiful and responsive portfolio to showcase my work.
+
+## Features
+⚡️ Modern UI Design
+⚡️ One Page Layout built with Bootstrap
+⚡️ Styled with Bootstrap v5.0.1 + Custom CSS\
+⚡️ Fully Responsive\
+⚡️ Image optimization\
+⚡️ Simple/elegant layout\
+⚡️ Well organized documentation
 
 
 ![image](https://user-images.githubusercontent.com/20747118/122203167-9b1de580-ce52-11eb-842b-4b887efb316f.png)
