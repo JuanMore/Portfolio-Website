@@ -164,7 +164,7 @@
           , h = n("#submitSuccessMessage", o)
           , f = n("#submitErrorMessage", o)
           , b = o.dataset.sbFormApiToken;
-        "33fd980a-527e-4823-8966-10d414f155ba" === b && (a = !1,
+        "API_TOKEN" === b && (a = !1,
         console.log(l, u));
         const m = t("input, textarea, select", o);
         m.forEach((e=>{
