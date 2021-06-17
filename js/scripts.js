@@ -34,7 +34,13 @@ window.addEventListener('DOMContentLoaded', event => {
             offset: 72,
         });
     };
-
+    
+    
+    const form = document.querySelectorAll('#contactForm');
+    document.getElementById('#submitButton').addEventListener('click', function () {
+        form.submit();
+    })
+    
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
     const responsiveNavItems = [].slice.call(
