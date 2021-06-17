@@ -1,7 +1,7 @@
 # Portfolio-Website
 <a link href="Juanmoreno.dev" target="#" alt="A clean, beautiful and responsive portfolio"></a>
 A clean, beautiful and responsive portfolio to showcase my work.
-
+Inspired by gatbsy simpleflio by cobidev
 ## Features
 ⚡️ Modern UI Design
 ⚡️ One Page Layout built with Bootstrap
