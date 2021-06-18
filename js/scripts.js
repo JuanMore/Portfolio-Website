@@ -3,17 +3,7 @@
 *
 */
 
-let msg = “Hi there! Welcome to my site! Feel free to look around”; 
-let styles= [ 
-    ‘font-size: 12px’, 
-    ‘font-family: monospace’, 
-    ‘background: white’, 
-    ‘display: inline-block’, 
-    ‘color: black’, 
-    ‘padding: 8px 19px’, 
-    ‘border: 1px dashed;’ 
-].join(‘;’) 
-console.log(msg, styles);
+console.log(“%c Smile 😃 its just code”, “color:blue; font-size: 24px”);
 
 window.addEventListener('DOMContentLoaded', event => {
 
