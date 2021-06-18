@@ -3,7 +3,17 @@
 *
 */
 
-console.log('Hey there! Thank you for stopping by. Please feel free to look around.')
+let msg = “%c Hi 👋! Welcome to my site!”
+let styles= [ 
+    ‘font-size: 12px’, 
+    ‘font-family: monospace’, 
+    ‘background: white’, 
+    ‘display: inline-block’, 
+    ‘color: black’, 
+    ‘padding: 8px 19px’, 
+    ‘border: 1px dashed;’ 
+].join(‘;’) 
+console.log(msg, styles)
 
 window.addEventListener('DOMContentLoaded', event => {
 
