@@ -3,7 +3,7 @@
 *
 */
 
-let msg = “%c Hi there 👋! Welcome to my site! Feel free to look around”; 
+let msg = “Hi there! Welcome to my site! Feel free to look around”; 
 let styles= [ 
     ‘font-size: 12px’, 
     ‘font-family: monospace’, 
