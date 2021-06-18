@@ -3,7 +3,7 @@
 *
 */
 
-console.log(“ Hi! Welcome to my site!”)
+console.log("Hello there! Welcome to my site!")
 
 window.addEventListener('DOMContentLoaded', event => {
 
