@@ -2,7 +2,17 @@
 * Copyright © 2021 Juan Moreno
 *
 */
-console.log("Hello there! Thank you for visitng my site. Feel free to look around. This site was built on start bootstrap freelance theme and inspired by Cobidev Gatsby-simplefolio(:");
+
+let msg = “%c Hi there 👋! Welcome to my site! Thank you for visitng my site. Feel free to look around. This site was built on start bootstrap freelance theme and inspired by Cobidev Gatsby-simplefolio”; 
+let styles= [ 
+    ‘font-size: 12px’, 
+    ‘font-family: monospace’, 
+    ‘background: white’, 
+    ‘display: inline-block’, 
+    ‘color: black’, 
+    ‘padding: 8px 19px’, 
+    ‘border: 1px dashed;’ 
+].join(‘;’) 
 
 window.addEventListener('DOMContentLoaded', event => {
 
