@@ -3,7 +3,7 @@
 *
 */
 
-let msg = “%c Hi there 👋! Welcome to my site!”; 
+let msg = “%c Hi there 👋! Welcome to my site! Feel free to look around. This site was built on bootstrap and inspired by Cobidev Gatsby Simplefolio!”; 
 let styles= [ 
     ‘font-size: 12px’, 
     ‘font-family: monospace’, 
@@ -13,6 +13,7 @@ let styles= [
     ‘padding: 8px 19px’, 
     ‘border: 1px dashed;’ 
 ].join(‘;’) 
+console.log(msg, styles);
 
 window.addEventListener('DOMContentLoaded', event => {
 
