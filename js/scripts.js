@@ -3,7 +3,7 @@
 *
 */
 
-let msg = “%c Hi there 👋! Welcome to my site! Feel free to look around. This site was built on bootstrap and inspired by Cobidev Gatsby Simplefolio!”; 
+let msg = “%c Hi there 👋! Welcome to my site! Feel free to look around”; 
 let styles= [ 
     ‘font-size: 12px’, 
     ‘font-family: monospace’, 
