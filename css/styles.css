@@ -11011,11 +11011,16 @@ html {
   width: 15rem;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 700px) {
   #header {
-    padding-top: calc(4rem + 104px);
-    padding-bottom: 6rem;
+    padding-top: calc(4rem + 100px);
+    padding-bottom: 5rem;
   }
+  @media (min-width: 600px) {
+    #header {
+      padding-top: calc(4rem + 100px);
+      padding-bottom: 5rem;
+    }
   .header-img .image-heading {
     font-size: 4rem;
     line-height: 3.5rem;
@@ -11023,6 +11028,7 @@ html {
   .header-img .image-subheading {
     font-size: 1.5rem;
   }
+}
 }
 #projects {
   margin-top: -5vw;
