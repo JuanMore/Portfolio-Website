@@ -10974,6 +10974,7 @@ html {
 }
 
 #header {
+  pading-top: 20px;
   position: static;
   height: 600px;
   background-image: linear-gradient(
