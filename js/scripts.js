@@ -3,7 +3,7 @@
 *
 */
 
-console.log(“Hey there! Thank you for stopping by. Please feel free to look around.”);
+console.log('Hey there! Thank you for stopping by. Please feel free to look around.')
 
 window.addEventListener('DOMContentLoaded', event => {
 
