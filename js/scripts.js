@@ -3,7 +3,7 @@
 *
 */
 
-console.log(“%c Smile 😃 its just code”, “color:blue; font-size: 24px”);
+console.log(“%c Hey there! ”, “color:blue; font-size: 24px”);
 
 window.addEventListener('DOMContentLoaded', event => {
 
