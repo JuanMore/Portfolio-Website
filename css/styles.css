@@ -10975,7 +10975,7 @@ html {
 
 #header {
   position: static;
-  height: 800px;
+  height: 600px;
   background-image: linear-gradient(
     135deg
     ,#101820,#fee715);
