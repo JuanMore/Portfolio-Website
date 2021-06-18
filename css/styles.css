@@ -11011,7 +11011,7 @@ html {
 }
 
 @media (min-width: 992px) {
-  .header-img {
+  #header {
     padding-top: calc(4rem + 104px);
     padding-bottom: 6rem;
   }
