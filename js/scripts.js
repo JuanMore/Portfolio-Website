@@ -3,7 +3,7 @@
 *
 */
 
-let msg = “%c Hi there 👋! Welcome to my site! Thank you for visitng my site. Feel free to look around. This site was built on start bootstrap freelance theme and inspired by Cobidev Gatsby-simplefolio”; 
+let msg = “%c Hi there 👋! Welcome to my site!”; 
 let styles= [ 
     ‘font-size: 12px’, 
     ‘font-family: monospace’, 
