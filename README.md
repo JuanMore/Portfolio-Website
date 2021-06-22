@@ -12,6 +12,21 @@ Inspired by gatbsy simplefolio by cobidev
 ⚡️ Simple/elegant layout
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Previous version 1.0.0</h2>
+
 ![image](https://user-images.githubusercontent.com/20747118/122203167-9b1de580-ce52-11eb-842b-4b887efb316f.png)
 
 ![image](https://user-images.githubusercontent.com/20747118/122203207-ab35c500-ce52-11eb-9ec8-24c675f3ffce.png)
