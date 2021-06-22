@@ -11,10 +11,22 @@ I was inspired by Cobidev gatbsy simplefolio.
 ⚡️ Image optimization\
 ⚡️ Simple/elegant layout
 
+Newest Version 2.0.0
+![image](https://user-images.githubusercontent.com/20747118/122879537-dce4db00-d2ed-11eb-87a6-51be1e130acf.png)
+
+![image](https://user-images.githubusercontent.com/20747118/122879583-ec642400-d2ed-11eb-9f2b-f3660c4e0f1d.png)
+
+![image](https://user-images.githubusercontent.com/20747118/122879627-f8e87c80-d2ed-11eb-9ab6-8db1faa26f5b.png)
+
+![image](https://user-images.githubusercontent.com/20747118/122879681-07cf2f00-d2ee-11eb-9075-c5db47f57165.png)
 
 
+Included + new pages / blog
+![image](https://user-images.githubusercontent.com/20747118/122879770-1ddcef80-d2ee-11eb-8aaa-d287af49abfd.png)
 
+![image](https://user-images.githubusercontent.com/20747118/122879819-2a614800-d2ee-11eb-8d72-d9bfac2935df.png)
 
+![image](https://user-images.githubusercontent.com/20747118/122879999-5bda1380-d2ee-11eb-8959-3d1b4ff01ac3.png)
 
 
 
