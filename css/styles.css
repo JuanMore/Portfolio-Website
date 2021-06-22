@@ -10847,8 +10847,8 @@ html {
 }
 
 .section-blog {
-  position: relative;
-  margin-top: 160px;
+  position: sticky;
+  margin-top: 200px;
 }
 
 .page-section {
