@@ -158,16 +158,13 @@
     const c = o=>{
         let a = !0;
         const r = ()=>{
-            v = ()=>{
-            m.reduce(((e,t)=>"yes" === t.dataset.sbCanSubmit ? e && !0 : e && !1), !0) ? c.classList.remove("disabled") : c.classList.add("disabled")
-        }
             v()
         }
           , c = n("#submitButton", o)
           , h = n("#submitSuccessMessage", o)
           , f = n("#submitErrorMessage", o)
           , b = o.dataset.sbFormApiToken;
-        "API_TOKEN" === b && (a = !1,
+        "33fd980a-527e-4823-8966-10d414f155ba" === b && (a = !1,
         console.log(l, u));
         const m = t("input, textarea, select", o);
         m.forEach((e=>{
