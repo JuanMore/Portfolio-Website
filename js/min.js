@@ -158,6 +158,9 @@
     const c = o=>{
         let a = !0;
         const r = ()=>{
+            let v = ()=>{
+            m.reduce(((e,t)=>"yes" === t.dataset.sbCanSubmit ? e && !0 : e && !1), !0) ? c.classList.remove("disabled") : c.classList.add("disabled")
+        }
             v()
         }
           , c = n("#submitButton", o)
