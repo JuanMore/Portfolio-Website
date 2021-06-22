@@ -2,7 +2,7 @@
 <a link href="Juanmoreno.dev" target="#" alt="A clean, beautiful and responsive portfolio"></a>
 A clean, beautiful and responsive portfolio to showcase my work.
 <br>
-I was inspired by Cobidev gatbsy simplefolio. I made this using bootstrap and based it of Cobidev's simplefolio
+I was inspired by Cobidev gatbsy simplefolio.
 ## Features
 ⚡️ Modern UI Design
 ⚡️ One Page Layout built with Bootstrap
