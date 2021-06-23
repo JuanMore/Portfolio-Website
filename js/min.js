@@ -1,3 +1,7 @@
+/*
+* Start Bootstrap - SB Forms v0.3.1 (startbootstrap.com)
+* Copyright 2013-2021 Start Bootstrap LLC
+*/
 (()=>{
     "use strict";
     var e = function(e, t, n, s) {
@@ -258,7 +262,7 @@
             var n, s, i, o
         }
         ));
-        let v = ()=>{
+        const v = ()=>{
             m.reduce(((e,t)=>"yes" === t.dataset.sbCanSubmit ? e && !0 : e && !1), !0) ? c.classList.remove("disabled") : c.classList.add("disabled")
         }
     }
