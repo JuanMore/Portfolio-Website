@@ -7403,8 +7403,8 @@ textarea.form-control-lg {
   background-color: #ffffff !important;
 }
 
-.bg-secondary {
-  background-color: rgba(0, 0, 0, 0.15) !important;
+ .bg-secondary {
+    background-color: rgb(253 253 253 / 82%)!important;
 }
 
 .bg-success {
@@ -10935,7 +10935,7 @@ html {
   font-weight: 700;
 }
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #333;
 }
 #mainNav .navbar-nav {
   margin-top: 1rem;
