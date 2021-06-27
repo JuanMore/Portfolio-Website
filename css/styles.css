@@ -10959,6 +10959,7 @@ html {
 @media (min-width: 992px) {
   #mainNav {
     transition: padding-top 0.3s, padding-bottom 0.3s;
+	  margin-top: -40px;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
