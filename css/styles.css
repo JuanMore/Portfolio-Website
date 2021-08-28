@@ -3,7 +3,7 @@
 * Copyright © 2021 Juan Moreno
 */
 /*!
- * Bootstrap v5.0.1 (https://getbootstrap.com/)
+ * Bootstrap v5.0.1 (https://getbootstrap.com/) @juliocodes
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
@@ -3828,8 +3828,7 @@ textarea.form-control-lg {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-
-.nav {
+ {
   display: flex;
   flex-wrap: wrap;
   padding-left: 0;
@@ -7391,7 +7390,7 @@ textarea.form-control-lg {
 }
 
  .bg-secondary {
-    background-color: rgb(253 253 253 / 82%)!important;
+    background-color: rgb(253 253 253 / 18%)!important;
 }
 
 .bg-success {
