@@ -117,7 +117,7 @@ hr:not([size]) {
 }
 
 .bg-primary {
-  background-color: #ffffff !important;
+  background-color: transparent !important;
 }
 
 
