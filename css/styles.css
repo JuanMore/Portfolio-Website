@@ -6,8 +6,7 @@
 :root {
   --new--gradient: linear-gradient(
     135deg
-    ,#DA22FF, #9733EE);
-  --name-gradient: linear-gradient(#D31027,#EA384D)
+    ,#D31027, #EA384D);
 }
 
 *,
