@@ -345,6 +345,9 @@ hr:not([size]) {
 }
 
 @media(max-width: 768px){
+  h2 {
+     font-size: 2.5rem;
+  }
   #about {
     padding: 6rem 0 10rem;
   }
