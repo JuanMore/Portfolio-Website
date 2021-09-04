@@ -339,11 +339,7 @@ hr:not([size]) {
     padding-bottom: 10px;
     font-size: 3rem;
     line-height: 2.5rem;
-  }
-  .card-img {
-    max-width: 400px;
-  }
-
+    }
 }
 
 @media(max-width: 768px){
