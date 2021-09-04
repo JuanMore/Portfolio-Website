@@ -145,7 +145,7 @@ hr:not([size]) {
   color: transparent;
 }
 #mainNav .navbar-toggler {
-  font-size: 80%;
+  font-size: 25px
   padding: 0.8rem;
   background-color: transparent;
 }
