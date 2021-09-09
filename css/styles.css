@@ -68,10 +68,16 @@ hr:not([size]) {
  .container {
     max-width: 540px;
   }
+ .divider-custom {
+     margin-bottom: 1rem;
+  }
 }
 @media (min-width: 768px) {
    .container {
     max-width: 720px;
+  }
+   .divider-custom {
+     margin-bottom: 1rem;
   }
 }
 @media (min-width: 992px) {
