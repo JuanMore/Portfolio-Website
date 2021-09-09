@@ -68,8 +68,8 @@ hr:not([size]) {
  .container {
     max-width: 540px;
   }
- .divider-custom {
-     margin-bottom: 1rem;
+ #header-info, #header-info2 {
+    margin-bottom: 1.5rem;
   }
 }
 @media (min-width: 768px) {
