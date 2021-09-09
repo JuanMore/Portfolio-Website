@@ -1,4 +1,4 @@
-# Portfolio/Freelance-Website
+# My Portfolio Website
 <a link href="Juanmoreno.dev" target="#" alt="A clean, beautiful and responsive portfolio"></a>
 A clean, beautiful and responsive portfolio to showcase my work.
 <br>
