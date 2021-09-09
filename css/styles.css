@@ -68,16 +68,10 @@ hr:not([size]) {
  .container {
     max-width: 540px;
   }
- .image-subheading {
-    margin-bottom: 0!important;
-  }
 }
 @media (min-width: 768px) {
    .container {
     max-width: 720px;
-  }
-   .image-subheading {
-    margin-bottom: 0!important;
   }
 }
 @media (min-width: 992px) {
@@ -359,6 +353,9 @@ hr:not([size]) {
     width: 100%;
     display: flex;
     justify-content: center;
+  }
+  .image-subheading {
+    margin-bottom: 0!important;
   }
 }
 @media(min-width: 780px){
