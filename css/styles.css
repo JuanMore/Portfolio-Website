@@ -68,8 +68,8 @@ hr:not([size]) {
  .container {
     max-width: 540px;
   }
- #header-info, #header-info2 {
-    margin-bottom: 1rem!important;
+ .image-subheading {
+    margin-bottom: 0!important;
   }
 }
 @media (min-width: 768px) {
@@ -77,7 +77,7 @@ hr:not([size]) {
     max-width: 720px;
   }
    .image-subheading {
-    margin-bottom: 1.5rem!important;
+    margin-bottom: 0!important;
   }
 }
 @media (min-width: 992px) {
