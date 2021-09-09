@@ -76,7 +76,7 @@ hr:not([size]) {
    .container {
     max-width: 720px;
   }
-   #header-info, #header-info2 {
+   .image-subheading {
     margin-bottom: 1.5rem!important;
   }
 }
