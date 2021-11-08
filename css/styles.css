@@ -324,9 +324,6 @@ hr:not([size]) {
   justify-content: center;
   align-items: center;
 }
-.btn-social:hover {
-  color: #fff;
-}
 
 .footer {
   background-image: var(--new--gradient);
