@@ -114,9 +114,7 @@ hr:not([size]) {
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
-#mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: transparent;
-}
+
 #mainNav .navbar-toggler {
   font-size: 25px;
   padding: 0.8rem;
