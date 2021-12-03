@@ -106,6 +106,7 @@ hr:not([size]) {
 }
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #101820;
+  z-index: 1;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
   color: white;
