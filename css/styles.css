@@ -194,7 +194,7 @@ hr:not([size]) {
   padding-top: 9rem !important;
   padding-bottom: 5rem !important;
   position: relative;
-  height: 500px;
+  height: 600px;
   background-image: var(--new--gradient);
 }
 #header-info, #header-info2 {
